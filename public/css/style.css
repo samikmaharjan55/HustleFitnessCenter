@@ -1,0 +1,72 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  overflow-x:hidden;
+    background-color: black;
+}
+.topnav{
+  overflow: hidden;
+  height:27px;
+  background-color: #111010 ;
+}
+.glyphicon-earphone,.glyphicon-envelope{
+  color: white;
+  font-size: 15px;
+  margin-top: 5px;
+}
+.navbar{
+overflow: hidden;
+background-color: #111010;
+border: 0px;
+border-radius: 0px;
+font-weight: 600;
+font-size: 15px;
+}
+.nav>li>a{
+  color: white !important;
+}
+.word{
+    color: white;
+}
+.word1{
+    color: white;
+    font-size: 15px;
+}
+.word2{
+  color: white;
+  font-weight: 600;
+  font-size: 30px;
+}
+.word3{
+  color: white;
+  font-weight: 600;
+  font-size: 20px;
+}
+#slider{
+  margin-top: -18px;
+}
+.fa{
+  font-size: 25px;
+  padding: 15px;
+  color: white;
+}
+.fa:hover{
+  color: red;
+}
+.co{
+  background-color: #111010;
+}
+.homepage{
+  font-size: 20px;
+  color: white !important;
+  text-align: center  ;
+  padding-top: 7px;
+}
+.online{
+  height: 100px;
+  width: 300px;
+}
+.image{
+  height: 200px;
+  width: 250px;
+}
